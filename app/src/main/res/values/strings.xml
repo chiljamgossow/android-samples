@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExpertLeadTest</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="hello">Hello</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Try again</string>
+</resources>
